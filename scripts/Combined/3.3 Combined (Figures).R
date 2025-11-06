@@ -52,7 +52,6 @@ p = ggplot(
 ggsave('figures/Figure S1.pdf', p, width=6, height=6, bg='transparent')
 ggsave('figures/Figure S1.tiff', p, width=6, height=6, bg='transparent')
 
-
 # Cumulative Models - Figure ----------------------------------------------
 
 condition_labels = c('aloud.catch', 'aloud.early', 'aloud.late',
@@ -305,6 +304,7 @@ combined_df <- bind_rows(uv_sum %>% filter(type!= 'sigma'),
                          uv_con_sum %>% filter(type!= 'Sigma Contrasts'), 
                          dp_con_sum) %>%
   mutate(
+    condition = ifelse(condition=='PE', condition, str_to_title(condition)), soa = str_to_title(soa),
     type = factor(type, levels = c("d'", "d' Contrasts", "Rec.", "Rec. Contrasts", "Fam.", "Fam. Contrasts")),
     condition = factor(condition, levels = c("Silent", "Aloud", "PE")),
     soa = factor(soa, levels=c('Early', 'Late', 'Catch')),

@@ -4,6 +4,7 @@
 # Some of these are from legacy versions of the code, but rather than work out
 # which remain necessary and which are not, I have left them
 library(simts)
+library(tidybayes)
 library(progressr)
 library(pbapply)
 library(broom.mixed)
