@@ -33,7 +33,7 @@ The dataset includes:
 
 - **Behavioral data**  
   - Item-level recognition judgments (hits, false alarms).  
-  - Confidence ratings (in Experiments 2–4).  
+  - Confidence ratings
   - Derived sensitivity measures (d′, familiarity, recollection estimates).  
 
 - **Pupillometric data**  
