@@ -19,8 +19,10 @@ Across two experiments, participants studied words to be read aloud or silently 
 
 ## Key Findings
 
-Behavioral production effect (aloud > silent) replicated across delays; the effect was smaller but present on catch trials, indicating preparation alone confers a memory benefit.
+-Behavioral production effect (aloud > silent) replicated across delays; the effect was smaller but present on catch trials, indicating preparation alone confers a memory benefit.
+
 -Pupillometric production effect: pupil dilation was larger for aloud than silent trials, with differences emerging before overt production; a smaller prep-related deflection was also present on catch trials.
+
 -Process evidence: for "Go"" trials, the production effect involved both recollection and familiarity; for catch trials, it was driven primarily by recollection, consistent with a preparatory attention component.
 
 ---
