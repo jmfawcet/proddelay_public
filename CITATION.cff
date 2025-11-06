@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following paper:"
+title: "Preparing to produce (without production) is sufficient to elicit a behavioral and pupillometric production effect"
+authors:
+  - family-names: "Fawcett"
+    given-names: "Jonathan M."
+    orcid: "https://orcid.org/0000-0002-4248-5371"
+  - family-names: "Roberts"
+    given-names: "Brady R. T."
+    orcid: "https://orcid.org/0000-0002-2228-8805"
+  - family-names: "Hu"
+    given-names: "Siyue"
+  - family-names: "Thoms"
+    given-names: "Cayley"
+  - family-names: "Whitridge"
+    given-names: "Jedidiah"
+    orcid: "https://orcid.org/0000-0003-1237-4977"
+  - family-names: "MacLeod"
+    given-names: "Colin M."
+    orcid: "https://orcid.org/0000-0002-8350-7362"
+  - family-names: "Willoughby"
+    given-names: "Hannah"
+    orcid: "https://orcid.org/0000-0002-3597-5532"
+version: "1.0.0"
+date-released: "2025-11-06"
+repository-code: "https://github.com/jmfawcet/proddelay_public"
+license: "CC BY-NC 4.0"
+doi: "10.31234/osf.io/ay6u7_v2"
+keywords:
+  - production effect
+  - pupillometry
+  - attention
+  - memory
+  - signal detection
+  - Bayesian modeling
+abstract: >
+  This repository contains the data analysis code, Bayesian signal-detection
+  models, and figure-generation scripts accompanying the manuscript
+  "Preparing to produce (without production) is sufficient to elicit a
+  behavioral and pupillometric production effect" by Fawcett et al. (2025).
+  Across two experiments, the project demonstrates that response preparation
+  alone elicits both behavioral and pupillometric markers of the production
+  effect, highlighting the role of attentional engagement in memory encoding.
+preferred-citation:
+  type: article
+  title: "Preparing to produce (without production) is sufficient to elicit a behavioral and pupillometric production effect"
+  authors:
+    - family-names: "Fawcett"
+      given-names: "Jonathan M."
+    - family-names: "Roberts"
+      given-names: "Brady R. T."
+    - family-names: "Hu"
+      given-names: "Siyue"
+    - family-names: "Thoms"
+      given-names: "Cayley"
+    - family-names: "Whitridge"
+      given-names: "Jedidiah"
+    - family-names: "MacLeod"
+      given-names: "Colin M."
+    - family-names: "Willoughby"
+      given-names: "Hannah"
+  journal: "In revision at Psychonomic Bulletin & Review"
+  year: 2025
+  doi: "10.31234/osf.io/ay6u7_v2"
